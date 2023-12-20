@@ -8,7 +8,7 @@ I'm a Computer Science Enthusiast  👨‍💻
 
 - 🔭 I'm currently using python for back-end development
 - 🌱 I'm currently learning about Data Structures and Arithmetic
-- 👯 I'm looking to collaborate on Cpp projects and Basic Web Dev stuff
+- 👯 I'm looking to collaborate on python projects and Basic Web Dev stuff
 - 🤔 I'm looking for help to strengthen my algorithmic ability to support my ingenuity.
 - 💬 Ask me about anything and everything 
 - 📫 My web site: http://didatx.cn 
